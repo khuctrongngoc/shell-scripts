@@ -31,5 +31,5 @@ else
     conda create -y -n $ENV_NAME python=3.7
     source /home/ngockhuc/miniconda3/bin/activate $ENV_NAME
     which python
-    pip install -r reources/requirements.txt
+    pip install -r resources/requirements.txt
 fi
